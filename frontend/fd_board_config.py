@@ -1,1 +1,1 @@
-API_URL = "http://localhost:8000/fd-summary"
+API_URL = "https://fd-board-api.onrender.com/fd-summary"
