@@ -1,5 +1,6 @@
 import streamlit as st
-from streamlit_login import authenticate_user
+from frontend.streamlit_login import authenticate_user
+
 
 
 import pandas as pd
